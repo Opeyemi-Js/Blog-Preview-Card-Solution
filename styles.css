@@ -21,7 +21,7 @@ body{
 .blog-card{
   max-width: 375px;
   background:hsl(0, 0%, 100%);
-  padding: 20px 30px;
+  padding: 20px;
   border-radius :20px;
   border:1px solid hsl(0, 0%, 7%);
   box-shadow :10px 10px 0 0 hsl(0, 0%, 7%);
@@ -57,7 +57,7 @@ border-radius: 10px;
   color :hsl(0, 0%, 42%);
 }
 .author-section{
-  margin-top:10px;
+  margin-top:25px;
   display :flex;
   align-items: center;
   gap: 10px;
