@@ -33,7 +33,6 @@ border-radius: 15px;
 }
 .article-tag{
   display: inline-block;
-  width:70%;
   background-color: hsl(47, 88%, 63%);
   padding: 4px 12px;
   margin-top:30px;
@@ -44,6 +43,7 @@ border-radius: 15px;
 .article-date{
   font-size: 0.85rem;
   font-weight : 600;
+  margin-top:15px;
 }
 .article-title{
   margin :10px 0;
