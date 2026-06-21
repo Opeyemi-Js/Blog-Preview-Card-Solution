@@ -57,7 +57,7 @@ border-radius: 10px;
   color :hsl(0, 0%, 42%);
 }
 .author-section{
-  margin : 20px 0 10px 0 ;
+  margin-top:25px;
   display :flex;
   align-items: center;
   gap: 10px;
