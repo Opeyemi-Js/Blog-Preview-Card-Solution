@@ -32,10 +32,10 @@ display: block;
 border-radius: 15px;
 }
 .article-tag{
-  display: inline-block;
   background-color: hsl(47, 88%, 63%);
   padding: 4px 12px;
-  margin-top:30px;
+  display: inline-block;
+  margin:30px 0;
   border-radius: 4px;
   font-weight : 800;
   font-size: 0.75rem;
@@ -43,10 +43,9 @@ border-radius: 15px;
 .article-date{
   font-size: 0.85rem;
   font-weight : 600;
-  margin-top:15px;
 }
 .article-title{
-  margin :10px 0;
+  margin :15px 0;
   font-size :1.11rem;
   font-weight: 800;
   color: hsl(0, 0%, 7%);
